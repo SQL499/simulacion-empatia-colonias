@@ -1,0 +1,47 @@
+{
+  "colonia": {
+    "nombre": "Amantes de Lima",
+    "intereses": [
+      {
+        "nombre": "surf",
+        "moda": 42
+      },
+      {
+        "nombre": "yoga",
+        "moda": 20
+      },
+      {
+        "nombre": "gastronomia",
+        "moda": 10
+      }
+    ]
+  },
+  "usuarios": [
+    {
+      "nombre": "Ana",
+      "intereses": [
+        {
+          "nombre": "surf",
+          "moda": 40
+        },
+        {
+          "nombre": "yoga",
+          "moda": 20
+        }
+      ]
+    },
+    {
+      "nombre": "Beto",
+      "intereses": [
+        {
+          "nombre": "surf",
+          "moda": 20
+        },
+        {
+          "nombre": "gastronomia",
+          "moda": 10
+        }
+      ]
+    }
+  ]
+}
